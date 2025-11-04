@@ -1,0 +1,7 @@
+{
+  "name": "emma version ChopXpress2.0supabase",
+  "description": "A food delivery app that offers delicious Nigerian meals from a fixed menu and provides fast local delivery.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
